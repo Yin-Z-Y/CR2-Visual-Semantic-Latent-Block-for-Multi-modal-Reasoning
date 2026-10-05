@@ -1,8 +1,5 @@
 <div align="center">
 
-
-<img src="assets/banner.svg" alt="CR² — Construct, Replay, and Reason" width="100%">
-
 <h1>Construct, Replay, and Reason</h1>
 <h3>Visual-Semantic Latent Block for Multi-modal Reasoning</h3>
 
@@ -52,7 +49,7 @@ Latent Visual Reasoning (LVR) performs intermediate computation in a visual late
 **Can a local visual token serve as a contextual reasoning state?** LVR grounds latent reasoning through direct alignment with question-relevant RoI tokens. Our preliminary analysis reveals two limitations of this design.
 
 <p align="center">
-  <img src="assets/motivation.png" alt="Preliminary LVR analysis: hidden-to-visual alignment, representation mismatch, and training–inference mismatch" width="100%">
+  <img src="assets/pre_study.png" alt="Preliminary LVR analysis: hidden-to-visual alignment, representation mismatch, and training–inference mismatch" width="100%">
 </p>
 <p align="center"><sub>Preliminary analysis from the paper: the LVR paradigm and its two central mismatches.</sub></p>
 
