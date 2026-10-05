@@ -49,7 +49,7 @@ Latent Visual Reasoning (LVR) performs intermediate computation in a visual late
 **Can a local visual token serve as a contextual reasoning state?** LVR grounds latent reasoning through direct alignment with question-relevant RoI tokens. Our preliminary analysis reveals two limitations of this design.
 
 <p align="center">
-  <img src="assets/pre_study.png" alt="Preliminary LVR analysis: hidden-to-visual alignment, representation mismatch, and training–inference mismatch" width="100%">
+  <img src="asset/pre_study.png" alt="Preliminary LVR analysis: hidden-to-visual alignment, representation mismatch, and training–inference mismatch" width="100%">
 </p>
 <p align="center"><sub>Preliminary analysis from the paper: the LVR paradigm and its two central mismatches.</sub></p>
 
@@ -67,7 +67,7 @@ Latent Visual Reasoning (LVR) performs intermediate computation in a visual late
 CR² uses two passes to construct a visual-semantic latent block and replay it for answer generation.
 
 <p align="center">
-  <img src="assets/framework.png" alt="CR² framework: construct visual-semantic residual latents in Pass-I, then replay the latent block for answer generation in Pass-II" width="100%">
+  <img src="asset/framework.png" alt="CR² framework: construct visual-semantic residual latents in Pass-I, then replay the latent block for answer generation in Pass-II" width="100%">
 </p>
 <p align="center"><sub>Construct visual-semantic latents in Pass-I, then replay them for reasoning in Pass-II.</sub></p>
 
