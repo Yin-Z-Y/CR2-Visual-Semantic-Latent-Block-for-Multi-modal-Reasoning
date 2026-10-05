@@ -8,12 +8,12 @@
 
 <p><b>A dedicated latent reasoning state, constructed from visual evidence and semantic intent.</b></p>
 
-<p>
+<!-- <p>
   <a href="https://anonymous.4open.science/r/CR2"><img src="https://img.shields.io/badge/Project-CR%C2%B2-6366F1?style=flat-square" alt="Project"></a>
   <img src="https://img.shields.io/badge/Backbone-Qwen2.5--VL-0F766E?style=flat-square" alt="Qwen2.5-VL backbone">
   <img src="https://img.shields.io/badge/Model_Scale-3B_%7C_7B-475569?style=flat-square" alt="3B and 7B models">
   <img src="https://img.shields.io/badge/Benchmarks-6-D97706?style=flat-square" alt="Six benchmarks">
-</p>
+</p> -->
 
 
 <p>
@@ -27,17 +27,7 @@
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="25%"><b>+3.3 pp</b><br>RealWorldQA<br><sub>CR²-7B</sub></td>
-<td align="center" width="25%"><b>+3.2 pp</b><br>OCRBench<br><sub>CR²-7B</sub></td>
-<td align="center" width="25%"><b>+6.4 pp</b><br>BLINK Counting<br><sub>CR²-7B</sub></td>
-<td align="center" width="25%"><b>+3.5 pp</b><br>BLINK Spatial Relation<br><sub>CR²-7B</sub></td>
-</tr>
-</table>
 
-
-<p align="center"><sub>Absolute gains over the strongest 7B baseline in each column of the benchmark tables below.</sub></p>
 
 ---
 
