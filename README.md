@@ -67,7 +67,7 @@ Latent Visual Reasoning (LVR) performs intermediate computation in a visual late
 CR² uses two passes to construct a visual-semantic latent block and replay it for answer generation.
 
 <p align="center">
-  <img src="asset/framework.png" alt="CR² framework: construct visual-semantic residual latents in Pass-I, then replay the latent block for answer generation in Pass-II" width="100%">
+  <img src="asset/framework" alt="CR² framework: construct visual-semantic residual latents in Pass-I, then replay the latent block for answer generation in Pass-II" width="100%">
 </p>
 <p align="center"><sub>Construct visual-semantic latents in Pass-I, then replay them for reasoning in Pass-II.</sub></p>
 
